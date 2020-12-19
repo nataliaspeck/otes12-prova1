@@ -24,6 +24,7 @@ public class Funcionario extends FuncionarioCommand {
     }
 
     public void updateProgresso(Double vendas) {
+        System.out.println("Atualizando o progresso de: " + this.nome);
         this.cota.setVendas(vendas);
     }
 
