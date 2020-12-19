@@ -4,7 +4,11 @@
 
 ## Diagrama de classes
 
+![](prova/src/DiagramaClasses.png)
+
 ## Diagrama de componentes
+
+![](prova/src/DiagramaComponentes.png)
 
 ## Código-fonte
 
