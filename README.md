@@ -6,7 +6,7 @@ Command e Builder
 
 ## Problemática
 
-
+![](prova/src/Problematica.png)
 
 ## Diagrama de classes
 
